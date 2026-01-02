@@ -28,8 +28,9 @@ ROBOT_WS/
 
 <img width="1026" height="926" alt="image" src="https://github.com/user-attachments/assets/fd07def0-f6d2-4a3f-898a-a8dec7ffefd3" />
 
-
 <img width="2686" height="658" alt="image" src="https://github.com/user-attachments/assets/63352791-7f2b-4990-9fb1-bfee110bafa5" />
+
+<img width="430" height="469" alt="Screenshot 2026-01-02 at 6 55 14 PM" src="https://github.com/user-attachments/assets/6342d2a7-0df2-4c7c-bda2-31669094d9cc" />
 
 
 ## 🎯 Why Visualization Before Hardware?
